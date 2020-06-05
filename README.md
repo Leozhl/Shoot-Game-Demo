@@ -1,6 +1,9 @@
 # Shoot-Game-Demo
 This is a shoot game demo, as the name suggests. You need to control a tiny character to face with endless enemies.
 
+Unity Version: 2018.1.9f2  
+Recommend running in 16:9 resolution
+
 Operations  
 W, A, S, D: Movement  
 Left Click: Shoot  
