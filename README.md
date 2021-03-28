@@ -1,5 +1,6 @@
 # Shoot-Game-Demo
 This is a shoot game demo, as the name suggests. You need to control a tiny character to face with endless enemies.
+To play the game, you only need to download demo.zip and unzip it, then run demo.exe.
 
 Unity Version: 2018.1.9f2  
 Recommend running in 16:9 resolution
